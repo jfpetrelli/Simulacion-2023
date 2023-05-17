@@ -1,0 +1,1116 @@
+('Test Chicuadrados: ', 'rechazado')
+('Test corridas: ', 'rechazado')
+('Test Series: ', 'Rechazado')
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 1
+Semilla: 291452685
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 2
+Semilla: 661197895
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 3
+Semilla: 541802271
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 4
+Semilla: 622725925
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 5
+Semilla: 400447220
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 6
+Semilla: 209069508
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 7
+Semilla: 594740107
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 8
+Semilla: 615056020
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 9
+Semilla: 801016120
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 10
+Semilla: 180301374
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 11
+Semilla: 487761016
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 12
+Semilla: 618504887
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 13
+Semilla: 179300648
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 14
+Semilla: 883679815
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 15
+Semilla: 113394196
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 16
+Semilla: 845241826
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 17
+Semilla: 129313152
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 18
+Semilla: 771570808
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 19
+Semilla: 42242213
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 20
+Semilla: 552324403
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 21
+Semilla: 147144206
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 22
+Semilla: 964346790
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 23
+Semilla: 887102622
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 24
+Semilla: 706450360
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 25
+Semilla: 859824879
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 26
+Semilla: 685175510
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 27
+Semilla: 116928080
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 28
+Semilla: 343609279
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 29
+Semilla: 481006847
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 30
+Semilla: 776872584
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 31
+Semilla: 924756666
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 32
+Semilla: 789917011
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 33
+Semilla: 993918041
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 34
+Semilla: 234829517
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 35
+Semilla: 136249629
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 36
+Semilla: 787513988
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 37
+Semilla: 895404634
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 38
+Semilla: 976203288
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 39
+Semilla: 242468413
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 40
+Semilla: 677338743
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 41
+Semilla: 685428307
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 42
+Semilla: 873600046
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 43
+Semilla: 575861876
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 44
+Semilla: 964231188
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 45
+Semilla: 497534470
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 46
+Semilla: 562793923
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 47
+Semilla: 568826188
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 48
+Semilla: 897552482
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 49
+Semilla: 768719445
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 50
+Semilla: 252509739
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 51
+Semilla: 88532493
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 52
+Semilla: 32342673
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 53
+Semilla: 410649735
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 54
+Semilla: 173936568
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 55
+Semilla: 54727297
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 56
+Semilla: 782248896
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 57
+Semilla: 715507887
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 58
+Semilla: 902785355
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 59
+Semilla: 737330684
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 60
+Semilla: 335044658
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 61
+Semilla: 667308797
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 62
+Semilla: 597341016
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 63
+Semilla: 607394591
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 64
+Semilla: 209753424
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 65
+Semilla: 194936169
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 66
+Semilla: 604777105
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 67
+Semilla: 667027664
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 68
+Semilla: 778603955
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 69
+Semilla: 753894819
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 70
+Semilla: 270815335
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 71
+Semilla: 344033470
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 72
+Semilla: 917443575
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 73
+Semilla: 628398913
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 74
+Semilla: 617439175
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 75
+Semilla: 168667947
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 76
+Semilla: 40220400
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 77
+Semilla: 529131074
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 78
+Semilla: 799373273
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 79
+Semilla: 658130852
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 80
+Semilla: 707191441
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 81
+Semilla: 341918813
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 82
+Semilla: 812758641
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 83
+Semilla: 42166367
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 84
+Semilla: 521822525
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 85
+Semilla: 411461770
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 86
+Semilla: 943619724
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 87
+Semilla: 332794794
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 88
+Semilla: 928727067
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 89
+Semilla: 770709032
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 90
+Semilla: 417313830
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 91
+Semilla: 888819318
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 92
+Semilla: 79080589
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 93
+Semilla: 566227614
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 94
+Semilla: 129198710
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 95
+Semilla: 768210958
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 96
+Semilla: 425016562
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 97
+Semilla: 8005527
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 98
+Semilla: 23016145
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 99
+Semilla: 646527864
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 100
+Semilla: 498878599
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 1
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 2
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 3
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 4
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 5
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 6
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 7
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 8
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 9
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 10
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 11
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 12
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 13
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 14
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 15
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 16
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 17
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 18
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 19
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 20
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 21
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 22
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 23
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 24
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 25
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 26
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 27
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 28
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 29
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 30
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 31
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 32
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 33
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 34
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 35
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 36
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 37
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 38
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 39
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 40
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 41
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 42
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 43
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 44
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 45
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 46
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 47
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 48
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 49
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 50
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 51
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 52
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 53
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 54
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 55
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 56
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 57
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 58
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 59
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 60
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 61
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 62
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 63
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 64
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 65
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 66
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'rechazado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 67
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 68
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Rechazado')
+Iteracion N°: 69
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 70
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 71
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 72
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 73
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 74
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 75
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 76
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 77
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 78
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 79
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 80
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 81
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 82
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 83
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 84
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 85
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 86
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 87
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 88
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 89
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 90
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 91
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 92
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 93
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 94
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 95
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'rechazado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 96
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 97
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 98
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 99
+('Test Chicuadrados: ', 'Aceptado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+Iteracion N°: 100
+('Test Chicuadrados: ', 'rechazado')
+('Test Poker: ', 'Aceptado')
+('Test corridas: ', 'Aceptado')
+('Test Series: ', 'Aceptado')
+
+Los resultados en 100 conjuntos de Random GCL con 15.000 elementos son:
+aceptado: 82
+rechazado: 18
+
+Los resultados en 100 conjuntos de Random python con 15.000 elementos son:
+aceptado: 72
+rechazado: 28
+
