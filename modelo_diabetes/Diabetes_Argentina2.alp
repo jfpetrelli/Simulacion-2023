@@ -7,7 +7,7 @@
 <AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.8.4.202307181708" AlpVersion="8.8.2">
 <Model>
 	<Id>1694127073214</Id>
-	<Name><![CDATA[Diabetes_Argentina]]></Name>
+	<Name><![CDATA[Diabetes_Argentina2]]></Name>
 	<EngineVersion>6</EngineVersion>
 	<JavaPackageName><![CDATA[diabetes_argentina]]></JavaPackageName>
 	<ModelTimeUnit><![CDATA[Year]]></ModelTimeUnit>
@@ -176,7 +176,7 @@
 				<Variable Class="StockVariable">
 					<Id>1694129758295</Id>
 					<Name><![CDATA[stock3]]></Name>
-					<X>1120</X><Y>300</Y>
+					<X>1750</X><Y>220</Y>
 					<Label><X>0</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -240,7 +240,7 @@
 				<Variable Class="StockVariable">
 					<Id>1694129760677</Id>
 					<Name><![CDATA[stock7]]></Name>
-					<X>1120</X><Y>540</Y>
+					<X>1750</X><Y>460</Y>
 					<Label><X>0</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -256,7 +256,7 @@
 				<Variable Class="StockVariable">
 					<Id>1694129781876</Id>
 					<Name><![CDATA[stock8]]></Name>
-					<X>1120</X><Y>460</Y>
+					<X>1750</X><Y>380</Y>
 					<Label><X>0</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -288,7 +288,7 @@
 				<Variable Class="StockVariable">
 					<Id>1694129783183</Id>
 					<Name><![CDATA[stock10]]></Name>
-					<X>1120</X><Y>380</Y>
+					<X>1750</X><Y>300</Y>
 					<Label><X>0</X><Y>-20</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -557,7 +557,7 @@
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>true</ShowLabel>
 					<Properties TargetId="1694129742903" External="false" Constant="false" Array="false">
-						<Formula><![CDATA[tasaNacimientos]]></Formula>
+						<Formula><![CDATA[tasaNacimientos*PersonasConNivelesNormalesDeGlucemia]]></Formula>
 						<Color/>
 						<ValveIndex>1</ValveIndex>
 						<Points>
@@ -775,7 +775,7 @@
 				<Variable Class="Parameter">
 					<Id>1695480991079</Id>
 					<Name><![CDATA[tasaDeteccionNC]]></Name>
-					<X>519.453</X><Y>213.377</Y>
+					<X>500</X><Y>210</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -864,7 +864,7 @@
 						<UnitOfValue Class="RateUnits"><![CDATA[PER_YEAR]]></UnitOfValue>
 						<SdArray>false</SdArray>
 						<DefaultValue Class="CodeUnitValue">
-							<Code><![CDATA[0.0139]]></Code>
+							<Code><![CDATA[0.139]]></Code>
 							<Unit Class="RateUnits"><![CDATA[PER_YEAR]]></Unit>
 						</DefaultValue>
 						<ParameterEditor>
@@ -880,7 +880,7 @@
 				<Variable Class="Parameter">
 					<Id>1695682948867</Id>
 					<Name><![CDATA[tasaDiabetesND]]></Name>
-					<X>490</X><Y>240</Y>
+					<X>470</X><Y>230</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1144,7 +1144,7 @@
 					<Delay>false</Delay>
 				</Link>
 				<Link SourceId="1694129760160" TargetId="1694130157339" Polarity="null">
-					<Height>20.0</Height>
+					<Height>-24.51</Height>
 					<PolarityPosition>0.95</PolarityPosition>
 					<Direction><X>103</X><Y>0</Y></Direction>
 					<Id>1695683326145</Id>
@@ -1251,10 +1251,10 @@
 				<Link SourceId="1695480991079" TargetId="1695473334018" Polarity="null">
 					<Height>20.0</Height>
 					<PolarityPosition>0.95</PolarityPosition>
-					<Direction><X>47</X><Y>-19</Y></Direction>
+					<Direction><X>66</X><Y>-16</Y></Direction>
 					<Id>1695684223935</Id>
 					<Name><![CDATA[tasaDeteccionNC - diagnosticadoNC]]></Name>
-					<X>519.453</X><Y>213.377</Y>
+					<X>500</X><Y>210</Y>
 					<Label><X>40</X><Y>-50</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1324,12 +1324,12 @@
 					<Delay>false</Delay>
 				</Link>
 				<Link SourceId="1695682948867" TargetId="1694130449051" Polarity="null">
-					<Height>20.0</Height>
+					<Height>6.371</Height>
 					<PolarityPosition>0.95</PolarityPosition>
-					<Direction><X>-18</X><Y>-55</Y></Direction>
+					<Direction><X>2</X><Y>-45</Y></Direction>
 					<Id>1695685969834</Id>
 					<Name><![CDATA[tasaDiabetesND - comienzoNDNC]]></Name>
-					<X>490</X><Y>240</Y>
+					<X>470</X><Y>230</Y>
 					<Label><X>40</X><Y>-50</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1459,7 +1459,7 @@
 					<Delay>false</Delay>
 				</Link>
 				<Link SourceId="1696164261485" TargetId="1694130157339" Polarity="null">
-					<Height>20.0</Height>
+					<Height>-13.168</Height>
 					<PolarityPosition>0.95</PolarityPosition>
 					<Direction><X>42</X><Y>147</Y></Direction>
 					<Id>1696166954343</Id>
@@ -1519,12 +1519,27 @@
 					<Delay>false</Delay>
 				</Link>
 				<Link SourceId="1694129760160" TargetId="1694130449051" Polarity="null">
-					<Height>20.0</Height>
+					<Height>19.212</Height>
 					<PolarityPosition>0.95</PolarityPosition>
 					<Direction><X>113</X><Y>-112</Y></Direction>
 					<Id>1696167370489</Id>
 					<Name><![CDATA[PersonasConPrediabetesDiagnosticado - comienzoNDNC]]></Name>
 					<X>359.251</X><Y>297.298</Y>
+					<Label><X>40</X><Y>-50</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<Color/>
+					<LineWidth>1</LineWidth>
+					<Delay>false</Delay>
+				</Link>
+				<Link SourceId="1694129742903" TargetId="1695479792861" Polarity="null">
+					<Height>20.0</Height>
+					<PolarityPosition>0.95</PolarityPosition>
+					<Direction><X>-95</X><Y>0</Y></Direction>
+					<Id>1696376068793</Id>
+					<Name><![CDATA[PersonasConNivelesNormalesDeGlucemia - Nacimientos]]></Name>
+					<X>170</X><Y>185</Y>
 					<Label><X>40</X><Y>-50</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1914,9 +1929,6 @@
 					<ParameterName><![CDATA[tasaDeteccionPrediabetes]]></ParameterName>
 				</Parameter>
 				<Parameter>
-					<ParameterName><![CDATA[tasaNacimientos]]></ParameterName>
-				</Parameter>
-				<Parameter>
 					<ParameterName><![CDATA[tasaDiabetesND]]></ParameterName>
 				</Parameter>
 				<Parameter>
@@ -1930,6 +1942,9 @@
 				</Parameter>
 				<Parameter>
 					<ParameterName><![CDATA[impactoTratamiento]]></ParameterName>
+				</Parameter>
+				<Parameter>
+					<ParameterName><![CDATA[tasaNacimientos]]></ParameterName>
 				</Parameter>
 			</Parameters>			
 			<PresentationProperties>
