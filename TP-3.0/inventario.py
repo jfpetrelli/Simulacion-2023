@@ -1,8 +1,38 @@
 from random import uniform, randint
 from math import log
 
-smalls_list = [20, 20, 20, 20, 40, 40, 40, 60, 60]
-bigs_list = [40, 60, 80, 100, 60, 80, 100, 80, 100]
+
+smalls_list = [10, 20, 30, 40, 50, 60]  
+bigs_list = [30, 40, 50, 60, 70, 80]  
+
+def main():
+    global num_events, next_event_type, smalls, bigs, smalls_list, bigs_list, time
+
+    num_policies = len(smalls_list)  
+
+    num_events = 4
+
+    print("Policy  ---- Average Total Cost ---- Average ordering cost ---- Average holding cost ---- Average shortage cost ")
+
+    for i in range(0, num_policies):
+        smalls = smalls_list[i]
+        bigs = bigs_list[i]
+        initialize()
+        maybe_timing = timing()
+        while (next_event_type != 3):
+            maybe_timing = timing()
+            if maybe_timing == -9999999999999999999999999999999:
+                break
+            else:
+                time = maybe_timing
+            update_time_avg_stats()
+            if next_event_type == 1:
+                order_arrival()
+            elif next_event_type == 2:
+                demand()
+            elif next_event_type == 4:
+                evaluate()
+        report()
 
 #int
 amount = 0
@@ -36,51 +66,6 @@ time_next_event = [];
 while (y < 5):
     time_next_event.append(0.0);
     y = y+1
-
-
-def main():
-    global num_events, next_event_type, smalls, bigs, smalls_list, bigs_list, time
-
-    num_policies = 9
-
-    num_events = 4
-
-
-    print ("Single-product inventory system"); 
-    print('')
-    print('')
-    print ("Initial inventory level items: ", initial_inv_level);
-    print ("Number of demand sizes: ", num_values_demand);
-    print ("Distribution function of demand sizes: ", prob_distrib_demand[0], " ", prob_distrib_demand[1], " ", prob_distrib_demand[2], " ", prob_distrib_demand[3], " ", prob_distrib_demand[4], " ")
-    print ("Mean interdemand time: ", mean_interdemand, " months")
-    print ("Delivery lag range: ", minlag, " months to ", maxlag, " months")
-    print ("Length of the simulation ", num_months, " months")
-    print ("K = ", setup_cost, " , i = ", incremental_cost, " , h = ", holding_cost, " , pi = ", shortage_cost)
-    print ("Number of policies ", num_policies)
-    print('')
-    print('')
-    print("Policy  ---- Average Total Cost ---- Average ordering cost ---- Average holding cost ---- Average shortage cost ")
-
-    for i in range(0, num_policies):
-        smalls = smalls_list[i]
-        bigs = bigs_list[i]
-        initialize();
-        maybe_timing = timing();
-        while (next_event_type != 3):
-            maybe_timing = timing();
-            if maybe_timing == -9999999999999999999999999999999:
-                break
-            else:
-                time = maybe_timing
-            update_time_avg_stats();
-
-            if next_event_type == 1:
-                order_arrival()
-            elif next_event_type == 2:
-                demand()
-            elif next_event_type == 4:
-                evaluate()
-        report()
         
 
 def initialize():
